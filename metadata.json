@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCalc AI",
+  "description": "A voice-controlled calculator that listens to your math commands, maintains a history tape, and calculates real-time statistics like Average, Median, Min, and Max.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
